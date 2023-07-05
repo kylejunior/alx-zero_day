@@ -1,8 +1,2 @@
 My first readme
-"C
-"c
-'C
-Ccreated
-created
-clear
-"C
+README update from github.com
